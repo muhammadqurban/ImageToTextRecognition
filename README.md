@@ -1,6 +1,5 @@
-# text_recognition
-
-A new Flutter project.
+# Text Recognition
+A Flutter Projec to recognize text from image.
 
 ## Getting Started
 
